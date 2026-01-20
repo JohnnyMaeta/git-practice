@@ -17,6 +17,11 @@
 - 生徒：ブラウザで閲覧してください
 - 教員：必要に応じてダウンロード・改変OK
 
+## レッスン一覧
+- [Lesson 01：GitHub入門](lessons/lesson01.md)
+- [Lesson 02：GitHubで教材を見る・使う](lessons/lesson02.md)
+
+
 ## 更新履歴
 - YYYY/MM/DD：初版作成
 
