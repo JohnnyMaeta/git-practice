@@ -20,6 +20,8 @@
 ## レッスン一覧
 - [Lesson 01：GitHub入門](lessons/lesson01.md)
 - [Lesson 02：GitHubで教材を見る・使う](lessons/lesson02.md)
+- [Lesson 03：GitHubで学習を整理する](lessons/lesson03.md)
+
 
 
 ## 更新履歴
